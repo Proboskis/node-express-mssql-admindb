@@ -1,0 +1,1 @@
+EXECUTE [dbo].[get_record_by_id] @id = @predmetId
